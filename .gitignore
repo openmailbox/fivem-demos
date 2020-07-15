@@ -1,0 +1,11 @@
+# Default FiveM resources
+resources/\[gamemodes]
+resources/\[gameplay]
+resources/\[managers]
+resources/\[system]
+resources/\[test]
+
+cache
+*.bat
+server.cfg
+*.code-workspace
